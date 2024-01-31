@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">homework10</string>
+
+    <!--Navigation-->
+    <string name="textViewTitleNavigation">Navigation</string>
+    <string name="buttonNavigationListFruits">List of fruits</string>
+    <string name="buttonNavigationListContacts">List of contacts</string>
+    <string name="buttonNavigationHelloUser">Hello User</string>
+    <string name="buttonNavigationListUsers">List of users</string>
+
+    <!--List of fruit-->
+    <string name="imageViewFruitDescription">fruit</string>
+
+    <!--Hello User-->
+    <string name="textViewHelloUser">Hello user!</string>
+    <string name="buttonNavigationInfoProgram">Next</string>
+
+    <!--List of contact-->
+    <string name="buttonAddContact">Add contact</string>
+    <string name="buttonDeleteContact">Delete last contact</string>
+    <string name="textViewDetailContactName">Name of contact</string>
+    <string name="textViewDetailContactPhoneNumber">Phone number</string>
+    <string name="textViewNameContact">Name</string>
+    <string name="textViewNumberPhone">Phone</string>
+
+    <!--List of users-->
+    <string name="textViewDetailIdUser">Id</string>
+    <string name="textViewDetailNameUser">Name</string>
+    <string name="textViewDetailDescriptions">Description</string>
+    <string name="redactNameHint">Edit name</string>
+    <string name="redactDescriptionHint">Edit description</string>
+    <string name="buttonEdit">Edit user</string>
+    <string name="buttonNavigationEditUser">Editing user</string>
+    <string name="textViewNameUser">Name of user</string>
+</resources>
